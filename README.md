@@ -1,17 +1,22 @@
-# -Credit_Card_Financial_Dashboard
-## -Power Bi Dashbord
--- Week of Week change:
-• Revenue increased by 28.8%,
-• Total Transaction Amt & Count increased by xx% & xx%
-• Customer count increased by xx%
-Overview YTD:
-• Overall revenue is 57M
-• Total interest is 8M
-• Total transaction amount is 46M
-• Male customers are contributing more in revenue 31M, female 26M
-• Blue & Silver credit card are contributing to 93% of overall
-transactions
-• TX, NY & CA is contributing to 68%
-• Overall Activation rate is 57.5%
-• Overall Delinquent rate is 6.06%
+# Credit Card Financial Dashboard  
+
+## 📊 Power BI Dashboard  
+
+### 📈 Week-over-Week Change:
+- Revenue increased by **28.8%**
+- Total Transaction Amount & Count increased by **xx% & xx%**
+- Customer count increased by **xx%**
+
+---
+
+### 📊 Overview (YTD):
+- Overall revenue: **57M**
+- Total interest: **8M**
+- Total transaction amount: **46M**
+- Male customers contributed **31M**, Female customers **26M**
+- **Blue & Silver** credit cards contributed **93%** of overall transactions
+- **TX, NY & CA** contributed **68%**
+- Overall **Activation rate**: **57.5%**
+- Overall **Delinquent rate**: **6.06%**
+
 
