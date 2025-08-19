@@ -1,6 +1,6 @@
 # -Credit_Card_Financial_Dashboard
-Power Bi Dashbord
-Week of Week change:
+## -Power Bi Dashbord
+-- Week of Week change:
 • Revenue increased by 28.8%,
 • Total Transaction Amt & Count increased by xx% & xx%
 • Customer count increased by xx%
